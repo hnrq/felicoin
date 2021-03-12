@@ -1,4 +1,5 @@
-Felicoin Core integration/staging tree
+
+<img src="share/pixmaps/Felicoin.png" alt="" />
 =====================================
 
 [![Build Status](https://travis-ci.org/felicoin-project/felicoin.svg?branch=master)](https://travis-ci.org/felicoin-project/felicoin)
@@ -8,14 +9,21 @@ https://felicoin.org
 What is Felicoin?
 ----------------
 
-Felicoin is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. Felicoin uses peer-to-peer technology to operate
-with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Felicoin Core is the name of open source
-software which enables the use of this currency.
+Felicoin is everything that you've ever wished for. A POW/POS Cryptocurrency/DeFi Platform/NFT Token with a blazing fast transaction speed of 0.0001ns. How we achieved that? By the power of Mighty Felipão
 
 For more information, as well as an immediately useable, binary version of
-the Felicoin Core software, see [https://felicoin.org](https://felicoin.org).
+the Felicoin Core software, see (NOT AVAILABLE YET) [https://felicoin.org](https://felicoin.org).
+
+Who is Felipão?
+---------------
+
+Felipão is the one and only. The perfect creation. His birth is foreseen since the dawn of mankind. Cave paintings of a white man with a divine look in his face have been reported by many archaeologists. Along the history, there are several reports of people who lost their sanity after dreaming with him. The psychiatrist Kanji-ka Takenti [conducted a research](https://www.youtube.com/watch?v=ettaeKZHAwA) with delusional patients from Tokyo Metropolitan Nakama Hospital, to track the origin of their conditions. Many participants reported that hallucinations and depersonalization started after staring at a strange face in their nightmares. A sketch, depicted below, was made by the researchers: 
+
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/This_Man_original_drawing.jpg/220px-This_Man_original_drawing.jpg" alt="Sketch of a white guy with thick eyebrows and a thin smile" />
+
+The research leader believes that it is, actually, Felipão. His thesis gets stronger when comparing the drawing to an old cave paint where caveman sees a similar face and goes berserk against his tribe. Nowadays, there's only one picture of Felipão **(NOTE: Do not stare at it for too long, some say it can drive you crazy)**:
+
+<img src="share/pixmaps/Felipao.jpg" alt="A white guy with thick eyebrows and a thin smile" />
 
 License
 -------
