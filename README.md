@@ -1,6 +1,5 @@
 
 <img src="share/pixmaps/Felicoin.png" alt="" />
-=====================================
 
 [![Build Status](https://travis-ci.org/felicoin-project/felicoin.svg?branch=master)](https://travis-ci.org/felicoin-project/felicoin)
 
@@ -86,3 +85,8 @@ Translations are periodically pulled from Transifex and merged into the git repo
 
 **Important**: We do not accept translation changes as GitHub pull requests because the next
 pull from Transifex would automatically overwrite them again.
+
+Warning
+-------
+
+This is a meme, of course.
