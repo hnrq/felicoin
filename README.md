@@ -1,5 +1,7 @@
 
-<img alignment="center" src="share/pixmaps/Felicoin.png" alt="" />
+<p align="center">
+  <img src="share/pixmaps/Felicoin.png" alt="" />
+ </p>
 
 [![Build Status](https://travis-ci.org/felicoin-project/felicoin.svg?branch=master)](https://travis-ci.org/felicoin-project/felicoin)
 
@@ -17,13 +19,14 @@ Who is Felipão?
 ---------------
 
 Felipão is the one and only. The perfect creation. His birth is foreseen since the dawn of mankind. Cave paintings of a white man with a divine look in his face have been reported by many archaeologists. Along the history, there are several reports of people who lost their sanity after dreaming with him. The psychiatrist Kanji-ka Takenti [conducted a research](https://www.youtube.com/watch?v=ettaeKZHAwA) with delusional patients from Tokyo Metropolitan Nakama Hospital, to track the origin of their conditions. Many participants reported that hallucinations and depersonalization started after staring at a strange face in their nightmares. A sketch, depicted below, was made by the researchers: 
-
-<img alignment="center" height="300" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/This_Man_original_drawing.jpg/220px-This_Man_original_drawing.jpg" alt="Sketch of a white guy with thick eyebrows and a thin smile" />
-
+<p align="center">
+  <img alignment="center" height="300" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/This_Man_original_drawing.jpg/220px-This_Man_original_drawing.jpg" alt="Sketch of a white guy with thick eyebrows and a thin smile" />
+</p>
 Mr. Takenti believes that this eerie figure is, actually, Felipão. His thesis gets stronger when comparing the drawing to an old cave paint where caveman sees a similar face and goes berserk against his tribe. Nowadays, there's only one picture of Felipão **(NOTE: Do not stare at it for too long, some say it can drive you crazy)**:
 
-<img src="share/pixmaps/Felipao.jpg" alignment="center" height="300" alt="A white guy with thick eyebrows and a thin smile" />
-
+<p align="center">
+  <img src="share/pixmaps/Felipao.jpg" height="300" alt="A white guy with thick eyebrows and a thin smile" />
+</p>
 License
 -------
 
