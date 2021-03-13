@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="share/pixmaps/Felicoin.png" alt="" />
- </p>
+<img src="share/pixmaps/Felicoin.png" alt="" />
 
 [![Build Status](https://travis-ci.org/felicoin-project/felicoin.svg?branch=master)](https://travis-ci.org/felicoin-project/felicoin)
 
@@ -27,6 +25,7 @@ Mr. Takenti believes that this eerie figure is, actually, Felipão. His thesis g
 <p align="center">
   <img src="share/pixmaps/Felipao.jpg" height="300" alt="A white guy with thick eyebrows and a thin smile" />
 </p>
+
 License
 -------
 
