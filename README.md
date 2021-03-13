@@ -20,7 +20,7 @@ Felipão is the one and only. The perfect creation. His birth is foreseen since 
 
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/This_Man_original_drawing.jpg/220px-This_Man_original_drawing.jpg" alt="Sketch of a white guy with thick eyebrows and a thin smile" />
 
-The research leader believes that it is, actually, Felipão. His thesis gets stronger when comparing the drawing to an old cave paint where caveman sees a similar face and goes berserk against his tribe. Nowadays, there's only one picture of Felipão **(NOTE: Do not stare at it for too long, some say it can drive you crazy)**:
+Mr. Takenti believes that this eerie figure is, actually, Felipão. His thesis gets stronger when comparing the drawing to an old cave paint where caveman sees a similar face and goes berserk against his tribe. Nowadays, there's only one picture of Felipão **(NOTE: Do not stare at it for too long, some say it can drive you crazy)**:
 
 <img src="share/pixmaps/Felipao.jpg" alt="A white guy with thick eyebrows and a thin smile" />
 
