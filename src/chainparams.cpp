@@ -112,8 +112,8 @@ public:
 
         genesis = CreateGenesisBlock(1615571150, 5475, 0x1e0ffff0, 1, 50 * COIN);
         consensus.hashGenesisBlock = genesis.GetHash();
-        assert(consensus.hashGenesisBlock == uint256S("351b46bdb46abdee17159ae81e5ec350aa4f8df150bbac478db145f60f56b8f8"));
-        assert(genesis.hashMerkleRoot == uint256S("f4534a703ed06be487f4f3616958cfd1b4bf6a2e895bdc8173697da5c955129b"));
+        assert(consensus.hashGenesisBlock == uint256S("0x351b46bdb46abdee17159ae81e5ec350aa4f8df150bbac478db145f60f56b8f8"));
+        assert(genesis.hashMerkleRoot == uint256S("0xf4534a703ed06be487f4f3616958cfd1b4bf6a2e895bdc8173697da5c955129b"));
 
         // Note that of those which support the service bits prefix, most only support a subset of
         // possible options.
@@ -138,7 +138,7 @@ public:
 
         checkpointData = {
             {
-                { 0, uint256S("351b46bdb46abdee17159ae81e5ec350aa4f8df150bbac478db145f60f56b8f8")},
+                { 0, uint256S("0x351b46bdb46abdee17159ae81e5ec350aa4f8df150bbac478db145f60f56b8f8")},
             }
         };
 
@@ -203,21 +203,20 @@ public:
         m_assumed_blockchain_size = 2;
         m_assumed_chain_state_size = 1;
 
-        genesis = CreateGenesisBlock(1486949366, 293345, 0x1e0ffff0, 1, 50 * COIN);
+        genesis = CreateGenesisBlock(1615571150, 5475, 0x1e0ffff0, 1, 50 * COIN);
         consensus.hashGenesisBlock = genesis.GetHash();
-        assert(consensus.hashGenesisBlock == uint256S("0x4966625a4b2851d9fdee139e56211a0d88575f59ed816ff5e6a63deb4e3e29a0"));
-        assert(genesis.hashMerkleRoot == uint256S("0x97ddfbbae6be97fd6cdf3e7ca13232a3afff2353e29badfab7f73011edd4ced9"));
-
+        assert(consensus.hashGenesisBlock == uint256S("0x351b46bdb46abdee17159ae81e5ec350aa4f8df150bbac478db145f60f56b8f8"));
+        assert(genesis.hashMerkleRoot == uint256S("0xf4534a703ed06be487f4f3616958cfd1b4bf6a2e895bdc8173697da5c955129b"));
         vFixedSeeds.clear();
         vSeeds.clear();
         // nodes with support for servicebits filtering should be at the top
 
-        base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,111);
-        base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1,196);
-        base58Prefixes[SCRIPT_ADDRESS2] = std::vector<unsigned char>(1,58);
-        base58Prefixes[SECRET_KEY] =     std::vector<unsigned char>(1,239);
-        base58Prefixes[EXT_PUBLIC_KEY] = {0x04, 0x35, 0x87, 0xCF};
-        base58Prefixes[EXT_SECRET_KEY] = {0x04, 0x35, 0x83, 0x94};
+        base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,14);
+        base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1,5);
+        base58Prefixes[SCRIPT_ADDRESS2] = std::vector<unsigned char>(1,50);
+        base58Prefixes[SECRET_KEY] =     std::vector<unsigned char>(1,14);
+        base58Prefixes[EXT_PUBLIC_KEY] = {0xfe, 0x88, 0xB2, 0x1E};
+        base58Prefixes[EXT_SECRET_KEY] = {0xfe, 0x88, 0xAD, 0xE4};
 
         bech32_hrp = "tltc";
 
@@ -229,15 +228,15 @@ public:
 
         checkpointData = {
             {
-                {2056, uint256S("17748a31ba97afdc9a4f86837a39d287e3e7c7290a08a1d816c5969c78a83289")},
+                {0, uint256S("0x351b46bdb46abdee17159ae81e5ec350aa4f8df150bbac478db145f60f56b8f8")},
             }
         };
 
         chainTxData = ChainTxData{
             // Data from rpc: getchaintxstats 4096 e79561972208ba3a02c308482176b33f3ec841d4213ea7bbaa3f22b7c8a16f32
-            /* nTime    */ 1565582448,
-            /* nTxCount */ 2848910,
-            /* dTxRate  */ 0.02265200874042768
+            /* nTime    */ 1615571150,
+            /* nTxCount */ 0,
+            /* dTxRate  */ 0.0
         };
 
         /* enable fallback fee on testnet */
@@ -292,10 +291,10 @@ public:
 
         UpdateVersionBitsParametersFromArgs(args);
 
-        genesis = CreateGenesisBlock(1296688602, 0, 0x207fffff, 1, 50 * COIN);
+        genesis = CreateGenesisBlock(1615571150, 5475, 0x1e0ffff0, 1, 50 * COIN);
         consensus.hashGenesisBlock = genesis.GetHash();
-        assert(consensus.hashGenesisBlock == uint256S("0x530827f38f93b43ed12af0b3ad25a288dc02ed74d6d7857862df51fc56c416f9"));
-        assert(genesis.hashMerkleRoot == uint256S("0x97ddfbbae6be97fd6cdf3e7ca13232a3afff2353e29badfab7f73011edd4ced9"));
+        assert(consensus.hashGenesisBlock == uint256S("0x351b46bdb46abdee17159ae81e5ec350aa4f8df150bbac478db145f60f56b8f8"));
+        assert(genesis.hashMerkleRoot == uint256S("0xf4534a703ed06be487f4f3616958cfd1b4bf6a2e895bdc8173697da5c955129b"));
 
         vFixedSeeds.clear(); //!< Regtest mode doesn't have any fixed seeds.
         vSeeds.clear();      //!< Regtest mode doesn't have any DNS seeds.
@@ -306,7 +305,7 @@ public:
 
         checkpointData = {
             {
-                {0, uint256S("530827f38f93b43ed12af0b3ad25a288dc02ed74d6d7857862df51fc56c416f9")},
+                {0, uint256S("0x351b46bdb46abdee17159ae81e5ec350aa4f8df150bbac478db145f60f56b8f8")},
             }
         };
 
@@ -316,12 +315,12 @@ public:
             0
         };
 
-        base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,111);
-        base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1,196);
-        base58Prefixes[SCRIPT_ADDRESS2] = std::vector<unsigned char>(1,58);
-        base58Prefixes[SECRET_KEY] =     std::vector<unsigned char>(1,239);
-        base58Prefixes[EXT_PUBLIC_KEY] = {0x04, 0x35, 0x87, 0xCF};
-        base58Prefixes[EXT_SECRET_KEY] = {0x04, 0x35, 0x83, 0x94};
+        base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,14);
+        base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1,5);
+        base58Prefixes[SCRIPT_ADDRESS2] = std::vector<unsigned char>(1,50);
+        base58Prefixes[SECRET_KEY] =     std::vector<unsigned char>(1,14);
+        base58Prefixes[EXT_PUBLIC_KEY] = {0xfe, 0x88, 0xB2, 0x1E};
+        base58Prefixes[EXT_SECRET_KEY] = {0xfe, 0x88, 0xAD, 0xE4};
 
         bech32_hrp = "rltc";
 
