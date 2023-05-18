@@ -16,7 +16,7 @@ the Felicoin Core software, see (NOT AVAILABLE YET) [https://felicoin.org](https
 Who is Felipão?
 ---------------
 
-Felipão is the one and only. The perfect creation. His birth is foreseen since the dawn of mankind. Cave paintings of a white man with a divine look in his face have been reported by many archaeologists. Along the history, there are several reports of people who lost their sanity after dreaming with him. The psychiatrist Kanji-ka Takenti [conducted a research](https://www.youtube.com/watch?v=ettaeKZHAwA) with delusional patients from Tokyo Metropolitan Nakama Hospital, to track the origin of their conditions. Many participants reported that hallucinations and depersonalization started after staring at a strange face in their nightmares. A sketch, depicted below, was made by the researchers: 
+Felipão is the one and only. The perfect creation. His birth is foreseen since the dawn of mankind. Cave paintings of a divine white man have been reported by many archaeologists. Along the history, there are several reports of people who lost their sanity after dreaming with him. The psychiatrist Kanji-ka Takenti [conducted a research](https://www.youtube.com/watch?v=ettaeKZHAwA) with delusional patients from Tokyo Metropolitan Nakama Hospital, to track the origin of their conditions. Many participants reported that hallucinations and depersonalization started after staring at a strange face in their nightmares. A sketch, depicted below, was made by the researchers: 
 <p align="center">
   <img alignment="center" height="300" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/This_Man_original_drawing.jpg/220px-This_Man_original_drawing.jpg" alt="Sketch of a white guy with thick eyebrows and a thin smile" />
 </p>
